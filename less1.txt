@@ -1,2 +1,6 @@
 Hello world!123
 line from user1
+git checkout (master)
+
+good morning - from add-branch feature1
+
